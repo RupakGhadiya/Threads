@@ -1,0 +1,80 @@
+.nav{
+    display: flex;
+    background-color: #DBECFB;
+}
+.Home_con{
+    background-color: #DBECFB;
+}
+.logo{
+    margin: 1rem;
+}
+.btn{
+    
+    width: 180px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    margin-left: 73%;
+    height: 45px;
+    text-align:center;
+    border: none;
+    border-radius: 10px;
+    background-size: 300% 100%;
+    background-color: #907AFF;
+}
+.btn:hover{
+    background-color: black;
+}
+.hero{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #DBECFB;
+}
+.left{
+    margin-top: 7rem;
+}
+.card_img_home{
+    width: 25rem;
+}
+.button_group{
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+}
+.button1{
+    width: 200px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 55px;
+    text-align:center;
+    border: none;
+    border-radius: 10px;
+    background-size: 300% 100%;
+    background-color: #907AFF;
+}
+.button1:hover{
+    background-color: black;
+}
+.cards_home{
+    background-color: #DBECFB;
+}
+.card_img2{
+    width: 62rem;
+    margin-left: 6rem;
+    border: 2px solid #907AFF;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    max-width: 100%;
+}
+.home_tag{
+    max-width: 35rem;
+    margin-top: 1rem;
+}
+.home_title{
+    margin-left: 20px;
+}
+

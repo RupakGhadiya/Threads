@@ -1,0 +1,78 @@
+.contact_full{
+    background-color: #DBECFB;
+}
+.contact {
+    width: 57rem;
+    height: 25.5rem;
+    background-color: #DBECFB;
+    border-radius: 15px;
+    margin-left: 5rem;
+    padding: 2rem;
+    border: 2px solid #907AFF;
+    box-shadow: 0 4px 7px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+}
+
+.input_login_c {
+    /* margin-left: 100px; */
+    border-radius: 8px;
+    border: 2px solid #907AFF;
+    outline: none;
+    color: #907AFF;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width: 85%;
+    font-size: 1rem;
+}
+.input_login_message{
+    border-radius: 8px;
+    border: 2px solid #907AFF;
+    outline: none;
+    color: #907AFF;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width: 85%;
+    height: 150px;
+    font-size: 1rem;
+}
+
+.button_con {
+
+    width: 30%;
+    font-size: 13px;
+    font-weight: 600;
+    color: #907AFF;
+    cursor: pointer;
+    margin-top: 20px;
+    height: 45px;
+    text-align: center;
+    border: 2px solid #907AFF;
+    border-radius: 10px;
+    background-size: 300% 100%;
+    background-color: #ffffff;
+}
+.button_con::hover{
+    background-color: black;
+    color: white;
+}
+.main_con{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 0.5rem;
+}
+.or{
+    margin-left: 45%;
+    margin-top: 20px;
+}
+.login_title{
+    margin-bottom: 5px;
+}
+.con_left{
+    width: 1000px;
+    margin-right: 40px;
+}
+.con_right{
+    margin-top: 0px;
+}
+.card_img_co{
+    width: 500px;
+}

@@ -1,0 +1,81 @@
+.main_card{
+    width:60rem;
+    height: 20rem;
+    background-color: #DBECFB;
+    border-radius: 15px;
+    margin-left: 5rem;
+    margin-top: 5rem;
+    padding: 2rem;
+    border: 2px solid #907AFF;
+    box-shadow: 0 4px 7px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+}
+.bottom{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2rem;
+}
+.bars{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card_img_order{
+    width: 25rem;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    max-width: 100%;
+    float: left;
+}
+.txt{
+    margin: 20px;
+}
+.title{
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+#title{
+    margin-bottom: 20px;
+    font-size: 25px;
+    margin-left: 10px;
+}
+.incbar{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.button1_or{
+    width: 150px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 45px;
+    text-align:center;
+    border: none;
+    border-radius: 10px;
+    background-size: 300% 100%;
+    background-color: #907AFF;
+}
+.button1_or:hover{
+    background-color: black;
+}
+.button_group_or{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.display{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.inc_btn{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.top_txt{
+    margin-bottom: 10px;
+}
+.top_link{
+    margin-bottom: 6px;
+    color: blue;
+    font-size: 15px;
+}

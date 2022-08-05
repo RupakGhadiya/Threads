@@ -1,0 +1,65 @@
+.register {
+    width: 57rem;
+    height: 27rem;
+    background-color: #DBECFB;
+    border-radius: 15px;
+    margin-left: 5rem;
+    margin-top: 4rem;
+    padding: 2rem;
+    border: 2px solid #907AFF;
+    box-shadow: 0 4px 7px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+}
+
+.input_login_r {
+    margin-left: 100px;
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #1d2129;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width: 85%;
+    font-size: 1rem;
+}
+
+.button {
+
+    width: 90%;
+    font-size: 13px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 20px;
+    height: 45px;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    background-size: 300% 100%;
+    background-color: #907AFF;
+}
+.button::hover{
+    background-color: black;
+}
+.bottom{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2rem;
+}
+.or{
+    margin-left: 45%;
+    margin-top: 20px;
+}
+.login_title{
+    margin-bottom: 5px;
+}
+.card_img_or{
+    width: 500px;
+}
+.bottom_left_r{
+    width: 1000px;
+
+}
+.bottom_right{
+    margin-left: 40px;
+
+}

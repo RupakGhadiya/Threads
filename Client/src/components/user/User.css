@@ -1,0 +1,30 @@
+.background_user{
+    background-color: #DBECFB;
+}
+.User_heading{
+    text-decoration: underline;
+    justify-content: center;
+    text-align: center;
+    padding: 30px;
+}
+.location{
+    font-size: small;
+    color: blue;
+    float: right;
+}
+.carousel{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 4rem;
+}
+.carousel_img1{
+    width: 70%;
+    border-radius: 10px;
+    border: 2px #907AFF solid;
+}
+.cards_user{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
